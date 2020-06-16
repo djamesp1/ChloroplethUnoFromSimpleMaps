@@ -1,2 +1,0 @@
-# ChloroplethUnoFromSimpleMaps
-Created with CodeSandbox
